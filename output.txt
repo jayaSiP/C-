@@ -1,0 +1,10 @@
+GCD of 56 and 58 is: 2
+GCD of 45 and 46 is: 1
+GCD of 74 and 65 is: 1
+GCD of 56 and 78 is: 2
+GCD of 45 and 436 is: 1
+GCD of 46 and 68 is: 2
+GCD of 32 and 56 is: 8
+GCD of 78 and 788 is: 2
+GCD of 654 and 234 is: 6
+GCD of 674 and 2456 is: 2
